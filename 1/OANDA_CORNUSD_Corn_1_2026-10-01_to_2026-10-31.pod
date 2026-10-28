@@ -6,7 +6,7 @@
   "chunk_end": "2026-10-31",
   "parquet_file": "OANDA_CORNUSD_Corn_1_2026-10-01_to_2026-10-31.parquet",
   "data_file": "OANDA_CORNUSD_Corn_1_2026-10-01_to_2026-10-31.parquet",
-  "row_count": 9610,
+  "row_count": 10161,
   "first_candle": {
     "time": 1790812800,
     "Time": "2026-10-01T00:00:00.000000000Z",
@@ -17,16 +17,16 @@
     "volume": 6
   },
   "last_candle": {
-    "time": 1793079960,
-    "Time": "2026-10-27T05:46:00.000000000Z",
-    "open": 4.442,
-    "high": 4.442,
-    "low": 4.442,
-    "close": 4.442,
+    "time": 1793166060,
+    "Time": "2026-10-28T05:41:00.000000000Z",
+    "open": 4.405,
+    "high": 4.405,
+    "low": 4.405,
+    "close": 4.405,
     "volume": 1
   },
   "csv_file": "OANDA_CORNUSD_Corn_1_2026-10-01_to_2026-10-31.parquet",
-  "csv_row_count": 9610,
+  "csv_row_count": 10161,
   "csv_first_candle": {
     "time": 1790812800,
     "Time": "2026-10-01T00:00:00.000000000Z",
@@ -37,17 +37,17 @@
     "volume": 6
   },
   "csv_last_candle": {
-    "time": 1793079960,
-    "Time": "2026-10-27T05:46:00.000000000Z",
-    "open": 4.442,
-    "high": 4.442,
-    "low": 4.442,
-    "close": 4.442,
+    "time": 1793166060,
+    "Time": "2026-10-28T05:41:00.000000000Z",
+    "open": 4.405,
+    "high": 4.405,
+    "low": 4.405,
+    "close": 4.405,
     "volume": 1
   },
   "status": "VERIFIED_PARTIAL",
-  "verified_at": "2026-10-27T05:48:27.000000000Z",
-  "generated_at": "2026-10-27T05:48:27.000000000Z",
+  "verified_at": "2026-10-28T05:45:11.000000000Z",
+  "generated_at": "2026-10-28T05:45:11.000000000Z",
   "download_request": {
     "total_api_blocks_in_run": 1,
     "chunk_api_blocks": 1,
@@ -55,8 +55,8 @@
     "permanent_error_details": [],
     "all_block_outcomes": [
       {
-        "from": "2026-10-26T05:30:00Z",
-        "to": "2026-10-27T05:47:00Z",
+        "from": "2026-10-27T05:41:00Z",
+        "to": "2026-10-28T05:42:00Z",
         "code": 200,
         "msg": "OK"
       }
